@@ -14,7 +14,7 @@ public class Singlechild extends Singleparent{
 		//obj.display();
 		Singleparent obj1=new Singleparent();
 		obj1.display();
-		//we cannot get the parent class  
+		// a parent object cannot access child class
 	}
 
 }
